@@ -19,3 +19,6 @@ parts:
       - file: resources/example_resource/README
         sections:
           - file: resources/example_resource/example_lesson
+          - file: resources/python.md
+          - file: resources/r.md
+          - file: resources/quarto.md
