@@ -9,7 +9,7 @@ copyright: "2025"
 only_build_toc_files: true
 
 repository:
-  url: https://github.com/coding-for-reproducible-research/RCC_Coding_Club_Template  # <-- and this!
+  url: https://github.com/Research-Coding-Community/Research_Coding_Community
   branch: main
   path_to_book: ""
 
